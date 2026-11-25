@@ -1,0 +1,6 @@
+{
+  "name": "Spacupied",
+  "description": "Premium real estate rental and leasing platform connecting property owners, landlords, tenants, and businesses across Chennai, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
